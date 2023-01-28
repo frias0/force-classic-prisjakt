@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "npm run lint && web-ext build --overwrite-dest",
+    "start": "web-ext run --devtools",
+    "lint": "web-ext lint"
+    },
+  "devDependencies": {
+    "web-ext": "^7.4.0"
+  }
+}
