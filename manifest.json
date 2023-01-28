@@ -2,6 +2,8 @@
   "manifest_version": 2,
   "name": "force classic prisjakt",
   "description": "Redirects prisjakt.nu to classic.prisjakt.nu",
+  "homepage_url": "https://github.com/frias0/force-classic-prisjakt",
+  "author": "frias0",
   "version": "0.0.1",
   "icons": {
     "64": "icons/icon.png"
